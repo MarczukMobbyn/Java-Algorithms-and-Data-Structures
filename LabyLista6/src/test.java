@@ -1,4 +1,4 @@
-public class gowienko {
+public class test {
 
     public static void main(String[] args) {
         int tab[] = new int[10];
